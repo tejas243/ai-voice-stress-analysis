@@ -1,0 +1,11 @@
+streamlit
+numpy
+librosa
+scikit-learn
+plotly
+Pillow
+streamlit-webrtc
+av
+soundfile
+reportlab
+matplotlib
