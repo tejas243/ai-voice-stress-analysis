@@ -126,6 +126,13 @@ Collaboration strengthened the architecture, optimization, and deployment pipeli
 ## 🚀 Deployment
 
 Prepared for deployment using **Streamlit Community Cloud** and scalable cloud platforms.
+## 🌍 Live Deployment
+
+The application is publicly deployed and accessible here:
+
+🔗 https://ai-voice-stress-analysis-dcvuknxaqxvwgyrdeqrmqy.streamlit.app/
+
+Feel free to explore the live system.
 
 ---
 
